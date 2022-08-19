@@ -15,7 +15,8 @@ Then, hit your Windows key and search `Edit the system environment variables`. C
 Once done, click `Ok`, `Ok`, `Apply`, and then `Ok`.<br />
 **Now you're finished.**
 
-![image](https://user-images.githubusercontent.com/71285258/185552612-9e6fac42-c0aa-4ebd-94d6-18b7cf7b0929.png)<br />
+### Images
+![image](https://user-images.githubusercontent.com/71285258/185554513-bde44db1-2109-4505-ab59-cfd410830cf2.png)<br />
 
 **You (might?) have to turn off your AntiVirus product for the executable to work (because Windows Defender doesn't like uncommon executables)**
 
