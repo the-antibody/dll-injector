@@ -1,4 +1,0 @@
-﻿  mainform.cpp
-D:\vs\injector_gui\injector_gui\mainform.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
-  mainform.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  injector_gui.vcxproj -> D:\vs\injector_gui\injector_gui\x64\Debug\injector_gui.exe

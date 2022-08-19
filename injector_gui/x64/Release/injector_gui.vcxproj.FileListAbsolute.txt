@@ -1,5 +1,0 @@
-D:\vs\injector_gui\injector_gui\x64\Release\injector_gui.vcxproj.AssemblyReference.cache
-D:\vs\injector_gui\injector_gui\x64\Release\injector_gui.vcxproj.SuggestedBindingRedirects.cache
-D:\vs\injector_gui\injector_gui\x64\Release\injectorgui.mainform.resources
-D:\vs\injector_gui\injector_gui\x64\Release\injector_gui.vcxproj.GenerateResource.cache
-D:\vs\injector_gui\injector_gui\x64\Release\injector_gui.exe
