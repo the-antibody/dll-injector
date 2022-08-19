@@ -9,7 +9,7 @@ So naturally speaking, of course, I made my own process injection executable tha
 ![image](https://user-images.githubusercontent.com/71285258/185551999-91ab298b-2f16-4fcb-a50e-41cf04686965.png)
 
 # Installation
-To download the injector, click [here](https://github.com/the-antibody/dll-injector/releases/tag/1.0.0) and run through the install script.<br />
+To download the injector, click [here](https://github.com/the-antibody/dll-injector/releases/download/1.0.0/install.vbs) and run through the install script.<br />
 Once that's done, copy the created directory in your AppData Roaming. (for example, `C:\Users\user\AppData\Roaming\dll-injector`)<br />
 Then, hit your Windows key and search `Edit the system environment variables`. Click the `Environment Variables` button at the bottom. Find the variable `Path` under `User variables for [username]`, and click `Edit`. On the new popup window, click `New` and paste the directory you copied.<br />
 Once done, click `Ok`, `Ok`, `Apply`, and then `Ok`.<br />
